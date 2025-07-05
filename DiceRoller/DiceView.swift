@@ -8,6 +8,7 @@
 import SwiftUICore
 
 struct DiceView: View {
+    // number of pips on die
     var numberOfPips: Int = 1
     
     var body: some View {
